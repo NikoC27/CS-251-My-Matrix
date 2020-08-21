@@ -155,6 +155,7 @@ int main()
             default: cout << "Error not a valid choice" << endl;
                     break;
         }
+        
     } while(true);
 
     return 0;
